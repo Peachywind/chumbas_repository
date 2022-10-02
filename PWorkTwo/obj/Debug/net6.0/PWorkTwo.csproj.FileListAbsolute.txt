@@ -1,0 +1,15 @@
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\bin\Debug\net6.0\PWorkTwo.exe
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\bin\Debug\net6.0\PWorkTwo.deps.json
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\bin\Debug\net6.0\PWorkTwo.runtimeconfig.json
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\bin\Debug\net6.0\PWorkTwo.dll
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\bin\Debug\net6.0\PWorkTwo.pdb
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.csproj.AssemblyReference.cache
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.AssemblyInfoInputs.cache
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.AssemblyInfo.cs
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.dll
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\refint\PWorkTwo.dll
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.pdb
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\PWorkTwo.genruntimeconfig.cache
+C:\Users\Vladi\RiderProjects\PWorkTwo\PWorkTwo\obj\Debug\net6.0\ref\PWorkTwo.dll
